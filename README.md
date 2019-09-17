@@ -6,3 +6,5 @@ AI Code is an initiative by fruitpunch where students can learn to apply AI toge
 
 After two applied challenges, we step back a little for a fundamental challenge.
 Implement one of the most popular machine learning algorithms: Random forest. This will improve your understanding of machine learning.
+
+This challenge is prepared by [Mehmet Alican Noyan](https://github.com/MehmetAlicanNoyan).
